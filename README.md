@@ -1,17 +1,10 @@
 # Summer Game (Title TBD)
 
+ALLFROG?
+
 ## TODO
 
-### Setup
-
-<!-- <details> -->
-  <!-- <summary>Setup</summary> -->
-- [X] Unreal Project Setup
-- [X] Git Setup
-- [X] Git LFS
-- [X] Marketplace Assets
-- [X] License
-<!-- </details> -->
+Using GitHub project now.
 
 ## License
 
@@ -23,6 +16,7 @@
 
 - Git LFS monthly 50 GB: $5
 - Suriyun Monsters and Muscle Men: $113.64
+- Desert Rain Frog: $37.88
 
 ### Asset Packs
 
@@ -30,3 +24,4 @@
 - Suriyun Muscle Men
 - Good Sky
 - Fantasy Village Pack
+- Desert Rain Frog by Dibia Digital
